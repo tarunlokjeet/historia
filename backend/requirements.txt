@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai-whisper
+requests
+python-multipart
+
+httpx==0.25.2
+
+pydantic==2.5.0
+
+# For future steps (uncomment when ready):
+# openai-whisper==20231117
+# TTS==0.20.6
+# torch==2.1.1
+# torchaudio==2.1.1

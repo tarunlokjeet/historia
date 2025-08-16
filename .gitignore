@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Next.js
+.next/
+out/
+build/
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# Audio files (if you have temporary audio files)
+*.wav
+*.mp3
+temp_audio/
+input.wav
+record.py
+transcribe.py
+
+# Models (if you're storing models locally)
+models/
+*.bin
+*.pt
+
+# Database
+*.db
+*.sqlite
+
+# Temporary files
+tmp/
+temp/
