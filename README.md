@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Historia - AI Voice Assistant
 
 A web-based voice-enabled AI assistant focused on philosophy and history conversations.
@@ -56,3 +57,7 @@ npm run dev
 ## License
 
 MIT License
+=======
+# historia
+"AI voice assistant for philosophy and history conversations"
+>>>>>>> 819eff147108ceb3a7c429c91424efb7a88afbab
